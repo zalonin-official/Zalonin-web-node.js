@@ -1,0 +1,20 @@
+{
+  "name": "zalonin-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satvik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "firebase": "^5.7.1",
+    "firebase-admin": "^6.4.0",
+    "fuse.js": "^3.3.0",
+    "morgan": "^1.9.1"
+  }
+}
